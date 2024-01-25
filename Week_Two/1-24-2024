@@ -1,0 +1,144 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "ae545994-06ef-4780-a151-6e148a683be5",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      " 3\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "The variable x has a value of:3\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = input()\n",
+    "print('The variable x has a value of:' +x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "d4ed0ad9-0a18-4325-9f81-02f56ac4a2fb",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1-24-2024                 Week Two, Data Terminals\n"
+     ]
+    }
+   ],
+   "source": [
+    "ls "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "c7880d31-9a54-4ea8-ac6b-d4528c13295e",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "/Users/noraelruwie\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/opt/homebrew/opt/ipython/libexec/lib/python3.12/site-packages/IPython/core/magics/osm.py:393: UserWarning: using bookmarks requires you to install the `pickleshare` library.\n",
+      "  bkms = self.shell.db.get('bookmarks', {})\n",
+      "/opt/homebrew/opt/ipython/libexec/lib/python3.12/site-packages/IPython/core/magics/osm.py:428: UserWarning: using dhist requires you to install the `pickleshare` library.\n",
+      "  self.shell.db['dhist'] = compress_dhist(dhist)[-100:]\n"
+     ]
+    }
+   ],
+   "source": [
+    "cd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "562b4a9a-90a7-40b4-b5e9-816aaab7df9f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "3\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "f31b5b05-f94d-48c1-9185-b32d43f0aa36",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'/Users/noraelruwie'"
+      ]
+     },
+     "execution_count": 15,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "pwd"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fd4d558b-ea38-423d-aa73-fbf902006310",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
